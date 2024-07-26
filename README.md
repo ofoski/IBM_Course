@@ -1,2 +1,2 @@
 # IBM_Course
-# This repo is for the IBM data science course
+This repo is for the IBM data science course
